@@ -10,7 +10,7 @@ for (let i = 0; i < player.songs.length; i++)
 {
     const element = player.songs[i];
     let div = createSongElement(element);
-    div.style.border = "thick solid #0000FF";
+    div.style.border = "thick solgreid #0000FF";
     document.getElementById("songs").appendChild(div);
 }
 for (let i = 0; i < player.playlists.length; i++) {
