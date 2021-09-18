@@ -1,1 +1,71 @@
-/* Your code here */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body {
+    background:url("https://www.iphonehacks.com/wp-content/uploads/2015/06/apple-music-logo.png")repeat;
+ }
+ p{
+    background:url("https://www.iphonehacks.com/wp-content/uploads/2015/06/apple-music-logo.png")repeat;
+padding: 3px;
+ border:solid 2px black;
+ font-weight: bold;
+ }
+/* 
+
+* {
+   margin: 0;
+   padding: 0;
+   font-family: Arial, Helvetica, sans-serif;
+   list-style-type: none;
+   text-decoration: none;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   -o-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+img {
+   max-width: 100%;
+}
+
+html, body {
+   height: 100%;
+}
+
+body {
+   background:url("https://www.iphonehacks.com/wp-content/uploads/2015/06/apple-music-logo.png")repeat;
+   
+}
+h1 { color: red; font-family: 'Helvetica Neue', sans-serif; font-size: 110px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+
+
+#main{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4eVA1fUpwZGOuiCyyNftJIS5jzSwLmpm7Nw&usqp=CAU")repeat;
+    
+}
+.card {
+   position: relative;
+   background: black;
+   max-width: 500px;
+   margin: 20px auto;
+   box-shadow: 0px 0px 30px 2px #000;
+   align-content: center;
+}
+p{
+    color: red;
+    text-align: left;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin: 5px 30px;
+}
+img{
+    display: block;
+    background:black;
+    color: white;
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-align: center;
+    padding: 10px;
+    transition: 250ms;
+} */
